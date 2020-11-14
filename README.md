@@ -28,7 +28,7 @@ In this homework assignment, I did the following:
 
 ### Reporting
 
-* In the SVM model, the testing data's accuracy was 79.46%. In the Deep_Learning model, the testing data's accuracy was 83.98%. I tuned both of my models, hoping I could get closer to 85% or higher but did not get higher than the deep learning model. I still believe my deep learning model is good enough to predict new expoplants, if it is only wrong aroud 16% of the time. If I continued to train my model with an even larger data set, I think the accuracy would continue to rise.
+* In the SVM model, the testing data's accuracy was 79.46%. In the Deep_Learning model, the testing data's accuracy was 84.49%. I tuned both of my models, hoping I could get closer to 85% or higher but did not get higher than the deep learning model. I still believe my deep learning model is good enough to predict new expoplants, if it is only wrong aroud 16% of the time. If I continued to train my model with an even larger data set or adjust how my training and testing data split - I think the accuracy would continue to rise.
 
 
 - - -
